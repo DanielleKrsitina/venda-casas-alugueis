@@ -10,7 +10,7 @@ body{
     background:#f4f4f4;
 
     /* Define a imagem de fundo da página */
-    background-image: url(/IMG/background.webp);
+    background-image: url("../IMG/background.webp");
 
     /* Define que imagem não se repita */
     background-repeat: no-repeat;
